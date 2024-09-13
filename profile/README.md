@@ -1,3 +1,9 @@
+<div align="center">
+
 # Hello!
 
-This is the home for Kusogaki's many ~~terribly~~ written applications for our events!
+<img src="https://media1.tenor.com/m/ShamOQ7ru1gAAAAC/fern-walk.gif" width="200" />
+
+### This is a central hub for Kusogaki's ~~terribly~~ applications and services that facilitate our events! 
+
+</div>
